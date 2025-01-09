@@ -1,0 +1,20 @@
+---
+name: Propose Enhancement
+about: Suggest an idea for this project
+title: ''
+labels: enhancement
+assignees: ''
+
+---
+
+## Context
+<!-- What are you trying to do and how would you want to do it differently?  -->
+
+## Describe alternatives you've considered
+<!-- Can you achieve the same result doing it in an alternative way?  -->
+
+## Has the feature been requested before?
+<!-- If so, please provide a link to the issue-->
+
+### Additional context
+<!-- Add any other context or screenshots about the feature request here.-->
